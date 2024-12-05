@@ -15,7 +15,7 @@
 .SNbtndiv{
     position: absolute;
     bottom: 230px;
-    left: 70px;
+    left: 900px;
 }
 
 .SNbtn{
@@ -63,8 +63,8 @@ pre{
 
     .SNbtndiv{
         position: absolute;
-        bottom: 90px;
-        left: 55px;
+        bottom: 50px;
+        left: 240px;
     }
 
     .SNbtn{
